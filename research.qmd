@@ -65,16 +65,3 @@ You can explore the spatial networks of this research through the interactive di
 
 
 
-## State Policy Coding Process 
-
-
-Download files used for state policy coding (all open in a new tab): 
-
-* [Rubric for State Policy Coding](https://indiana-my.sharepoint.com/:x:/g/personal/hrridner_iu_edu/IQA-maHmwS44QYhv9q7rEinoAZjCxP0cEpr_Ogu_0okkADU?e=mCSRIK){target="_blank"}
-* [State Policy Coding Final Spreadsheet: PI](https://indiana-my.sharepoint.com/:x:/g/personal/hrridner_iu_edu/IQAMn8MpdJYhR54nbVleOdZ3AQUp44U_zl5WhZuDJ6l2V_I?e=DgSjxp){target="_blank"}
-* [State Policy Coding Final Spreadsheet: Student](https://indiana-my.sharepoint.com/:x:/g/personal/hrridner_iu_edu/IQDISscaEgXdQJuS6JCXQlVoAQ1VZGUXVt3CD3FrDM68NF8?e=3a9fEy){target="_blank"}
-* [Final State Policy Coding Decisions]()
-
-## Dissertation Results
-
-See the [**Dissertation tab**](dissertation.html) for full results, section-level links, and state-by-state data.
