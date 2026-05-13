@@ -77,15 +77,4 @@ Download files used for state policy coding (all open in a new tab):
 
 ## Dissertation Results
 
-Full multi-state analysis files (open in a new tab):
-
-* [Full Cross-State Results Summary](files/dissertation_results_summary.html){target="_blank"} — service density, need indicators, structural characteristics, spatial clustering (Moran's I), and integrated Risk Environment Framework across all five states
-* [Key Findings & Discussion](files/dissertation_findings_discussion.html){target="_blank"} — thematic interpretation, state-specific stories, and suggested talking points
-
-### State-Level Data Files
-
-* [Indiana Results](files/in_dissertation_results.html){target="_blank"}
-* Florida Results — *coming soon*
-* California Results — *coming soon*
-* New York Results — *coming soon*
-* Ohio Results — *coming soon*
+See the [**Dissertation tab**](dissertation.html) for full results, section-level links, and state-by-state data.

@@ -62,14 +62,11 @@ This dissertation investigates spatial disparities in harm reduction service ava
 
 ---
 
-## State-Level Data Files
+## State-Level Results
 
-- [Indiana](files/in_dissertation_results.html){target="_blank"}
-  - [Syringe service programs](files/in_dissertation_results.html#syringe-service-programs){target="_blank"}
-  - [Naloxone distribution](files/in_dissertation_results.html#naloxone-distribution-locations){target="_blank"}
-  - [Supportive housing](files/in_dissertation_results.html#supportive-housing-locations){target="_blank"}
-  - [Substance use treatment](files/in_dissertation_results.html#substance-use-treatment-facilities){target="_blank"}
-  - [Need indicators](files/in_dissertation_results.html#need-indicators){target="_blank"}
+All state results are drawn from the full cross-state summary. Jump directly to each state's data:
+
+- [Indiana](files/dissertation_results_summary.html#indiana){target="_blank"}
 - Florida — *coming soon*
 - California — *coming soon*
 - New York — *coming soon*
