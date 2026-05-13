@@ -59,7 +59,7 @@ As part of a collaborative project with Dr. Bonnie Ernst, I integrated archival 
 ::: {.callout-tip}
 ## Featured Project: Interactive StoryMap
 You can explore the spatial networks of this research through the interactive digital platform I developed:
-[**View the Geographies of Isolation StoryMap**](https://storymaps.arcgis.com/stories/77fea631846949eba30ff9c94cbe2c74){.btn .btn-outline-primary .btn-sm}
+[**View the Geographies of Isolation StoryMap**](https://storymaps.arcgis.com/stories/77fea631846949eba30ff9c94cbe2c74){target="_blank" .btn .btn-outline-primary .btn-sm}
 :::
 
 

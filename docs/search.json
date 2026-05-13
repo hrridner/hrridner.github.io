@@ -96,5 +96,33 @@
     "title": "Hannah Ridner",
     "section": "Skills",
     "text": "Skills\nStatistical Analysis Software SPSS, SAS, Stata, and R/RStudio Geographic Information Systems ArcGIS & ArcPro Other Software Microsoft Suite: Excel, Word, PowerPoints"
+  },
+  {
+    "objectID": "dissertation.html",
+    "href": "dissertation.html",
+    "title": "Help Isn’t Everywhere: Mapping Access to Harm Reduction Services",
+    "section": "",
+    "text": "Status: In Progress · Supported by the College of Arts & Sciences Dissertation Research Fellowship\nThis dissertation investigates spatial disparities in harm reduction service availability across five U.S. states (California, Florida, Indiana, New York, and Ohio). I examine how state-level policies interact with geographic context to create “service deserts,” with particular attention to the structural barriers faced by rural communities.\nUnit of analysis: County-level States: California, Florida, Indiana, New York, Ohio Service types: Syringe Service Programs (SSP), Naloxone Distribution, Supportive/Recovery Housing, Substance Use Treatment"
+  },
+  {
+    "objectID": "dissertation.html#full-results",
+    "href": "dissertation.html#full-results",
+    "title": "Help Isn’t Everywhere: Mapping Access to Harm Reduction Services",
+    "section": "Full Results",
+    "text": "Full Results\n\nFull Cross-State Results Summary — all maps, analyses, and data tables across all five states\nKey Findings & Discussion — thematic interpretation, state-specific stories, and the integrated Risk Environment Framework"
+  },
+  {
+    "objectID": "dissertation.html#browse-by-topic",
+    "href": "dissertation.html#browse-by-topic",
+    "title": "Help Isn’t Everywhere: Mapping Access to Harm Reduction Services",
+    "section": "Browse by Topic",
+    "text": "Browse by Topic\n\nHarm Reduction Services\n\nService summary & counts\nService density per 100K residents\nDistance to nearest service (county centroid)\n\n\n\nNeed Indicators\n\nHIV prevalence\nOverdose mortality (2021–2023 average)\nOpioid dispensing rates\nNaloxone & buprenorphine dispensing rates\n\n\n\nStructural Characteristics\n\nRurality\nSocioeconomic conditions\n\n\n\nState Policy\n\nPolicy × service/need comparison\nPolicy scores vs. service availability\n\n\n\nAnalyses\n\nRQ1a — Service–need alignment\nRQ1b — Policy environment & alignment\nRQ2 — Structural characteristics & service availability\nRQ3 — Spatial clustering (Moran’s I)\nRQ4 — County case studies\nRisk Environment Framework — integrated findings\n\n\n\nKey Findings\n\nTheme 1: Policy doesn’t deterministically produce services\nTheme 2: State-specific stories\n\nCalifornia — high policy, uneven geography\nNew York — extreme urban concentration\nOhio — the unexpected leader\nFlorida — restrictive + high-burden\nIndiana — uniformly thin, spatially even\n\nTheme 3: Spatial patterns and the priority gap\nCross-cutting theme: Infrastructure over policy"
+  },
+  {
+    "objectID": "dissertation.html#state-level-data-files",
+    "href": "dissertation.html#state-level-data-files",
+    "title": "Help Isn’t Everywhere: Mapping Access to Harm Reduction Services",
+    "section": "State-Level Data Files",
+    "text": "State-Level Data Files\n\nIndiana\n\nSyringe service programs\nNaloxone distribution\nSupportive housing\nSubstance use treatment\nNeed indicators\n\nFlorida — coming soon\nCalifornia — coming soon\nNew York — coming soon\nOhio — coming soon"
   }
 ]

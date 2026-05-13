@@ -14,6 +14,9 @@ website:
       - icon: globe
         href: research.qmd
         text: "Research"
+      - icon: journal-text
+        href: dissertation.qmd
+        text: "Dissertation"
       - icon: mortarboard
         href: teaching.qmd
         text: "Teaching"
