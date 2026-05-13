@@ -62,18 +62,6 @@ This dissertation investigates spatial disparities in harm reduction service ava
 
 ---
 
-## State-Level Results
-
-All state results are drawn from the full cross-state summary. Jump directly to each state's data:
-
-- [Indiana](files/dissertation_results_summary.html#indiana){target="_blank"}
-- Florida — *coming soon*
-- California — *coming soon*
-- New York — *coming soon*
-- Ohio — *coming soon*
-
----
-
 ## State Policy Coding
 
 Download files used for state policy coding (all open in a new tab):
