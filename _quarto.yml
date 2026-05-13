@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Hannah Ridner"
+  navbar:
+    background: "#8a9a5b" 
+    type: dark
+    left:
+      - icon: info-circle
+        href: about.qmd
+        text: "Hannah Ridner"
+      - icon: globe
+        href: research.qmd
+        text: "Research"
+      - icon: mortarboard
+        href: teaching.qmd
+        text: "Teaching"
+    right:
+      - icon: github
+        href: "https://github.com/hrridner"
+      - icon: envelope
+        text: "Contact"
+        href: "https://criminaljustice.indiana.edu/about/graduate-students/ridner_hannah.html"
+
+format:
+  html:
+    theme: sandstone
+    toc: true
+    toc-location: right

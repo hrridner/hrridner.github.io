@@ -1,0 +1,32 @@
+---
+title: "Teaching"
+---
+
+## Teaching Philosophy
+
+My approach to the classroom centers on creating a welcoming, low-stakes environment where students feel comfortable engaging with complex material. As an interdisciplinary scholar trained in criminology, sociology, geography, and public health, I aim to help students:
+
+* **Connect Theory to Reality:** Using guest speakers and current events to ground course concepts in the present.
+* **Build Technical Skills:** Leveraging 5+ years of experience in statistics and GIS to help students master data analysis.
+* **Engage Meaningfully:** Utilizing interactive tools like anonymous polling and live Q&A to reduce anxiety and increase participation.
+* **Translate Knowledge:** Designing assessments that emphasize the application of research to policy debates and real-world justice issues.
+
+
+
+## Courses Taught
+
+### Indiana University - Bloomington
+**Instructor of Record**
+* **Introduction to Criminal Justice** (Fall 2024, Spring 2025, Summer 2025)
+[Download Syllabus (PDF)](files/P100IntroToCrim_Syllabus_HannahRidner.pdf)
+
+**Associate Instructor / Grader**
+* **Techniques of Data Analysis** (Multiple semesters, 2020–2024)
+  * Assisted students with statistical software including **SPSS, SAS, Stata, and R**.
+* **Courts and Criminal Justice** (2020–2021)
+
+## Mentorship & Service
+* **Undergraduate Research Mentor**, IU Department of Criminology and Criminal Justice (2025 - 2026)
+* **Committee on Graduate Studies Representative**, IU Department of Criminology and Criminal Justice (2025 - 2026)
+* **Faculty Meeting Representative**, IU Department of Criminology and Criminal Justice (2024–2025)
+* **Crisis Counselor**, Crisis Textline (Volunteer)

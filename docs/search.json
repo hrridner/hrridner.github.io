@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "My approach to the classroom centers on creating a welcoming, low-stakes environment where students feel comfortable engaging with complex material. As an interdisciplinary scholar trained in criminology, sociology, geography, and public health, I aim to help students:\n\nConnect Theory to Reality: Using guest speakers and current events to ground course concepts in the present.\nBuild Technical Skills: Leveraging 5+ years of experience in statistics and GIS to help students master data analysis.\nEngage Meaningfully: Utilizing interactive tools like anonymous polling and live Q&A to reduce anxiety and increase participation.\nTranslate Knowledge: Designing assessments that emphasize the application of research to policy debates and real-world justice issues."
+  },
+  {
+    "objectID": "teaching.html#courses-taught",
+    "href": "teaching.html#courses-taught",
+    "title": "Teaching",
+    "section": "Courses Taught",
+    "text": "Courses Taught\n\nIndiana University - Bloomington\nInstructor of Record * Introduction to Criminal Justice (Fall 2024, Spring 2025, Summer 2025) Download Syllabus (PDF)\nAssociate Instructor / Grader * Techniques of Data Analysis (Multiple semesters, 2020–2024) * Assisted students with statistical software including SPSS, SAS, Stata, and R. * Courts and Criminal Justice (2020–2021)"
+  },
+  {
+    "objectID": "teaching.html#mentorship-service",
+    "href": "teaching.html#mentorship-service",
+    "title": "Teaching",
+    "section": "Mentorship & Service",
+    "text": "Mentorship & Service\n\nUndergraduate Research Mentor, IU Department of Criminology and Criminal Justice (2025 - 2026)\nCommittee on Graduate Studies Representative, IU Department of Criminology and Criminal Justice (2025 - 2026)\nFaculty Meeting Representative, IU Department of Criminology and Criminal Justice (2024–2025)\nCrisis Counselor, Crisis Textline (Volunteer)"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Status: In Progress (Supported by the College of Arts & Sciences Dissertation Research Fellowship)\nThis project investigates spatial disparities in harm reduction service availability (e.g., syringe service programs, naloxone distribution) across the United States. I examine how state-level policies interact with geographic context to create “service deserts,” with a specific focus on the unique structural barriers faced by rural communities.\nKey Contribution: A replicable spatial framework for public health agencies and advocacy organizations to identify service gaps and evaluate policy impact."
+  },
+  {
+    "objectID": "research.html#publications-manuscripts",
+    "href": "research.html#publications-manuscripts",
+    "title": "Research",
+    "section": "Publications & Manuscripts",
+    "text": "Publications & Manuscripts\n\nPeer-Reviewed Journal Articles\n\nBasile, P., et al. (2026). Tenant Navigation as a Critical Infrastructure of Care. Urban Geography.\nHenry, T., Ridner, H., & Stoltz, D. (2025). Setup for Failure: Gender Differences in Drug Treatment Court. (Under Review at Criminal Justice Policy Review).\n\n\n\nSelect Technical Reports\n\nGreene, A., Baugh, M., & Ridner, H. (2024). Jackson County Drug Court Process Evaluation Report. Indiana University: Bloomington, IN.\nHenry, T., Ridner, H., and Stoltz, D. (2023). Marion County Re-Entry and Drug Court Evaluation Reports."
+  },
+  {
+    "objectID": "research.html#conference-presentations",
+    "href": "research.html#conference-presentations",
+    "title": "Research",
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\n\nRidner, H. (2025). Help Isn’t Everywhere: Mapping Access to Harm Reduction Services State Policy Framework. Academy of Criminal Justice Sciences (ACJS), Washington D.C.\nRidner, H., Ernst, B., & Diaz, C. (2025). Geographies of Isolation: Convict-Leased Black Women in the American South. ACJS, Denver, CO.\nRidner, H. and Stoltz, D. (2023). Gender Differences and Trauma-Informed Care in Drug Treatment Courts. Midwestern Criminal Justice Association, Chicago, IL."
+  },
+  {
+    "objectID": "research.html#works-in-progress",
+    "href": "research.html#works-in-progress",
+    "title": "Research",
+    "section": "Works in Progress",
+    "text": "Works in Progress\n\nSpatial Analysis of Crime Concentration: I am currently updating my analysis of crime concentration in midsized cities using 2025 data for upcoming publication."
+  },
+  {
+    "objectID": "research.html#research-agenda",
+    "href": "research.html#research-agenda",
+    "title": "Research",
+    "section": "Research Agenda",
+    "text": "Research Agenda\nMy research investigates the geography of harm, asking how structural conditions, such as state law, spatial inequality, and historical carceral practice, shape access to resources that support health and justice.\nWorking at the intersection of Criminology, Public Health, and Geography, I use a mixed-methods toolkit including: * Spatial Statistics & GIS (R, ArcGIS, ArcPro) * Qualitative Analysis (Interview transcription and data management) * Public-Facing Visualization (Interactive StoryMaps)"
+  },
+  {
+    "objectID": "research.html#digital-scholarship-visualizations",
+    "href": "research.html#digital-scholarship-visualizations",
+    "title": "Research",
+    "section": "Digital Scholarship & Visualizations",
+    "text": "Digital Scholarship & Visualizations\n\nGeographies of Isolation: Convict-Leased Black Women in the American South\nAs part of a collaborative project with Dr. Bonnie Ernst, I integrated archival sources with GIS to map the erased geographies of convict leasing. This work visualizes how punishment operated across a carceral landscape embedded in the post-Civil War South.\n\n\n\n\n\n\nFeatured Project: Interactive StoryMap\n\n\n\nYou can explore the spatial networks of this research through the interactive digital platform I developed: View the Geographies of Isolation StoryMap"
+  },
+  {
+    "objectID": "research.html#state-policy-coding-process",
+    "href": "research.html#state-policy-coding-process",
+    "title": "Research",
+    "section": "State Policy Coding Process",
+    "text": "State Policy Coding Process\nDownload files used for state policy coding (all open in a new tab):\n\nRubric for State Policy Coding\nState Policy Coding Final Spreadsheet: PI\nState Policy Coding Final Spreadsheet: Student\nFinal State Policy Coding Decisions"
+  },
+  {
+    "objectID": "research.html#dissertation-results",
+    "href": "research.html#dissertation-results",
+    "title": "Research",
+    "section": "Dissertation Results",
+    "text": "Dissertation Results\nFull multi-state analysis files (open in a new tab):\n\nFull Cross-State Results Summary — service density, need indicators, structural characteristics, spatial clustering (Moran’s I), and integrated Risk Environment Framework across all five states\nKey Findings & Discussion — thematic interpretation, state-specific stories, and suggested talking points\n\n\nState-Level Data Files\n\nIndiana Results\nFlorida Results — coming soon\nCalifornia Results — coming soon\nNew York Results — coming soon\nOhio Results — coming soon"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Hannah Ridner",
+    "section": "",
+    "text": "PhD Candidate (ABD)\nDepartment of Criminology and Criminal Justice\nIndiana University – Bloomington\nEmail: hrridner@iu.edu\nDownload my CV (PDF)"
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "Hannah Ridner",
+    "section": "Research Interests",
+    "text": "Research Interests\nSpatial criminology and the geography of harm; health equity and harm reduction service access; carceral landscapes and historical labor networks; evaluation of specialty court programs (Drug/Re-entry courts); and the intersection of housing and infrastructures of care"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "Hannah Ridner",
+    "section": "Skills",
+    "text": "Skills\nStatistical Analysis Software SPSS, SAS, Stata, and R/RStudio Geographic Information Systems ArcGIS & ArcPro Other Software Microsoft Suite: Excel, Word, PowerPoints"
+  }
+]
