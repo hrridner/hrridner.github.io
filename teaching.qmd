@@ -17,10 +17,12 @@ My approach to the classroom centers on creating a welcoming, low-stakes environ
 
 ### Indiana University - Bloomington
 **Instructor of Record**
+
 * **Introduction to Criminal Justice** (Fall 2024, Spring 2025, Summer 2025, Summer 2026, Fall 2026)
-[Download Fall 2026 Syllabus (PDF)](files/P100_FA26_Syllabus_HannahRidner.pdf){target="_blank"}
+  * [Download Fall 2026 Syllabus (PDF)](files/P100_FA26_Syllabus_HannahRidner.pdf){target="_blank"}
 
 **Associate Instructor / Grader**
+
 * **Techniques of Data Analysis** (Multiple semesters, 2020–2024)
   * Assisted students with statistical software including **SPSS, SAS, Stata, and R**.
 * **Courts and Criminal Justice** (2020–2021)

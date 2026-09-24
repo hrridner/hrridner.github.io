@@ -39,6 +39,7 @@ This project investigates spatial disparities in harm reduction service availabi
 My research investigates the **geography of harm**, asking how structural conditions, such as state law, spatial inequality, and historical carceral practice, shape access to resources that support health and justice. 
 
 Working at the intersection of **Criminology, Public Health, and Geography**, I use a mixed-methods toolkit including:
+
 * **Spatial Statistics & GIS** (R, ArcGIS, ArcPro)
 * **Qualitative Analysis** (Interview transcription and data management)
 * **Public-Facing Visualization** (Interactive StoryMaps)
