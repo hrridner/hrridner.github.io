@@ -51,9 +51,11 @@ Working at the intersection of **Criminology, Public Health, and Geography**, I 
 As part of a collaborative project with Dr. Bonnie Ernst, I integrated archival sources with GIS to map the erased geographies of convict leasing. This work visualizes how punishment operated across a carceral landscape embedded in the post-Civil War South.
 
 ::: {.callout-tip}
-## Featured Project: Interactive StoryMap
-You can explore the spatial networks of this research through the interactive digital platform I developed:
+## Featured Project: Interactive StoryMap & Project Site
+You can explore the spatial networks of this research through the interactive digital platforms I developed:
+
 [**View the Geographies of Isolation StoryMap**](https://storymaps.arcgis.com/stories/77fea631846949eba30ff9c94cbe2c74){target="_blank" .btn .btn-outline-primary .btn-sm}
+[**View the Convict Leasing Project Site**](https://connect.posit.cloud/hrridner/content/01a0afd0-ade2-f862-c2dc-a70bec808b8f){target="_blank" .btn .btn-outline-primary .btn-sm}
 :::
 
 
