@@ -31,7 +31,7 @@ This project investigates spatial disparities in harm reduction service availabi
 
 ## Works in Progress
 * **Spatial Analysis of Crime Concentration:** I am currently updating my analysis of crime concentration in midsized cities using 2025 data for upcoming publication.
-* **Convict-Leased Black Women in the American South (1870s–1930s):** I am building an archival database of convict-leasing records from Alabama, Georgia, and Florida to map where Black women were convicted and where they were held under the lease system.
+* **Convict-Leased Black Women in the American South (1870s–1930s):** I am building an archival database of convict-leasing records from Alabama, Georgia, and Florida to map where Black women were convicted and where they were held under the lease system. [**View the project →**](https://connect.posit.cloud/hrridner/content/01a0afd0-ade2-f862-c2dc-a70bec808b8f){target="_blank"}
 
 
 ## Research Agenda
