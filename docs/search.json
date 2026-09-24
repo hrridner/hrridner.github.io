@@ -25,7 +25,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Status: In Progress (Supported by the College of Arts & Sciences Dissertation Research Fellowship)\nThis project investigates spatial disparities in harm reduction service availability (e.g., syringe service programs, naloxone distribution) across the United States. I examine how state-level policies interact with geographic context to create “service deserts,” with a specific focus on the unique structural barriers faced by rural communities.\nKey Contribution: A replicable spatial framework for public health agencies and advocacy organizations to identify service gaps and evaluate policy impact.\nView full dissertation results →"
+    "text": "Status: In Progress (Supported by the College of Arts & Sciences Dissertation Research Fellowship)\nThis project investigates spatial disparities in harm reduction service availability (e.g., syringe service programs, naloxone distribution) across the United States. I examine how state-level policies interact with geographic context to create “service deserts,” with a specific focus on the unique structural barriers faced by rural communities.\nKey Contribution: A replicable spatial framework for public health agencies and advocacy organizations to identify service gaps and evaluate policy impact."
   },
   {
     "objectID": "research.html#publications-manuscripts",
@@ -46,7 +46,7 @@
     "href": "research.html#works-in-progress",
     "title": "Research",
     "section": "Works in Progress",
-    "text": "Works in Progress\n\nSpatial Analysis of Crime Concentration: I am currently updating my analysis of crime concentration in midsized cities using 2025 data for upcoming publication."
+    "text": "Works in Progress\n\nSpatial Analysis of Crime Concentration: I am currently updating my analysis of crime concentration in midsized cities using 2025 data for upcoming publication.\nConvict-Leased Black Women in the American South (1870s–1930s): I am building an archival database of convict-leasing records from Alabama, Georgia, and Florida to map where Black women were convicted and where they were held under the lease system."
   },
   {
     "objectID": "research.html#research-agenda",
@@ -63,52 +63,24 @@
     "text": "Digital Scholarship & Visualizations\n\nGeographies of Isolation: Convict-Leased Black Women in the American South\nAs part of a collaborative project with Dr. Bonnie Ernst, I integrated archival sources with GIS to map the erased geographies of convict leasing. This work visualizes how punishment operated across a carceral landscape embedded in the post-Civil War South.\n\n\n\n\n\n\nFeatured Project: Interactive StoryMap\n\n\n\nYou can explore the spatial networks of this research through the interactive digital platform I developed: View the Geographies of Isolation StoryMap"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Hannah Ridner",
     "section": "",
     "text": "PhD Candidate (ABD)\nDepartment of Criminology and Criminal Justice\nIndiana University – Bloomington\nEmail: hrridner@iu.edu\nDownload my CV (PDF)"
   },
   {
-    "objectID": "about.html#research-interests",
-    "href": "about.html#research-interests",
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
     "title": "Hannah Ridner",
     "section": "Research Interests",
     "text": "Research Interests\nSpatial criminology and the geography of harm; health equity and harm reduction service access; carceral landscapes and historical labor networks; evaluation of specialty court programs (Drug/Re-entry courts); and the intersection of housing and infrastructures of care"
   },
   {
-    "objectID": "about.html#skills",
-    "href": "about.html#skills",
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
     "title": "Hannah Ridner",
     "section": "Skills",
-    "text": "Skills\nStatistical Analysis Software SPSS, SAS, Stata, and R/RStudio Geographic Information Systems ArcGIS & ArcPro Other Software Microsoft Suite: Excel, Word, PowerPoints"
-  },
-  {
-    "objectID": "dissertation.html",
-    "href": "dissertation.html",
-    "title": "Help Isn’t Everywhere: Mapping Access to Harm Reduction Services",
-    "section": "",
-    "text": "Status: In Progress · Supported by the College of Arts & Sciences Dissertation Research Fellowship\nThis dissertation investigates spatial disparities in harm reduction service availability across five U.S. states (California, Florida, Indiana, New York, and Ohio). I examine how state-level policies interact with geographic context to create “service deserts,” with particular attention to the structural barriers faced by rural communities.\nUnit of analysis: County-level States: California, Florida, Indiana, New York, Ohio Service types: Syringe Service Programs (SSP), Naloxone Distribution, Supportive/Recovery Housing, Substance Use Treatment"
-  },
-  {
-    "objectID": "dissertation.html#full-results",
-    "href": "dissertation.html#full-results",
-    "title": "Help Isn’t Everywhere: Mapping Access to Harm Reduction Services",
-    "section": "Full Results",
-    "text": "Full Results\n\nFull Cross-State Results Summary — all maps, analyses, and data tables across all five states\nKey Findings & Discussion — thematic interpretation, state-specific stories, and the integrated Risk Environment Framework"
-  },
-  {
-    "objectID": "dissertation.html#browse-by-topic",
-    "href": "dissertation.html#browse-by-topic",
-    "title": "Help Isn’t Everywhere: Mapping Access to Harm Reduction Services",
-    "section": "Browse by Topic",
-    "text": "Browse by Topic\n\nHarm Reduction Services\n\nService summary & counts\nService density per 100K residents\nDistance to nearest service (county centroid)\n\n\n\nNeed Indicators\n\nHIV prevalence\nOverdose mortality (2021–2023 average)\nOpioid dispensing rates\nNaloxone & buprenorphine dispensing rates\n\n\n\nStructural Characteristics\n\nRurality\nSocioeconomic conditions\n\n\n\nState Policy\n\nPolicy × service/need comparison\nPolicy scores vs. service availability\n\n\n\nAnalyses\n\nRQ1a — Service–need alignment\nRQ1b — Policy environment & alignment\nRQ2 — Structural characteristics & service availability\nRQ3 — Spatial clustering (Moran’s I)\nRQ4 — County case studies\nRisk Environment Framework — integrated findings\n\n\n\nKey Findings\n\nTheme 1: Policy doesn’t deterministically produce services\nTheme 2: State-specific stories\n\nCalifornia — high policy, uneven geography\nNew York — extreme urban concentration\nOhio — the unexpected leader\nFlorida — restrictive + high-burden\nIndiana — uniformly thin, spatially even\n\nTheme 3: Spatial patterns and the priority gap\nCross-cutting theme: Infrastructure over policy"
-  },
-  {
-    "objectID": "dissertation.html#state-policy-coding",
-    "href": "dissertation.html#state-policy-coding",
-    "title": "Help Isn’t Everywhere: Mapping Access to Harm Reduction Services",
-    "section": "State Policy Coding",
-    "text": "State Policy Coding\nDownload files used for state policy coding (all open in a new tab):\n\nRubric for State Policy Coding\nState Policy Coding Final Spreadsheet: PI\nState Policy Coding Final Spreadsheet: Student\nFinal State Policy Coding Decisions — coming soon"
+    "text": "Skills\n\nStatistical Analysis Software: SPSS, SAS, Stata, and R/RStudio\nGeographic Information Systems: ArcGIS & ArcPro\nOther Software: Microsoft Suite (Excel, Word, PowerPoint)"
   }
 ]

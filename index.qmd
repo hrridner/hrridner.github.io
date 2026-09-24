@@ -1,0 +1,34 @@
+
+::: {style="max-width: 850px; margin: auto;"}
+:::: {.columns}
+
+::: {.column width="60%"}
+# Hannah R. Ridner
+
+PhD Candidate (ABD)
+
+Department of Criminology and Criminal Justice
+
+Indiana University – Bloomington
+
+Email: [hrridner@iu.edu](mailto:hrridner@iu.edu)
+
+**Download my [CV (PDF)](files/CV_HannahRidner_August2026.pdf){target="_blank"}**
+:::
+
+::: {.column width="40%"}
+![](files/hannah_ridner.jpg){width=100%}
+:::
+
+::::
+:::
+
+
+## Research Interests
+Spatial criminology and the geography of harm; health equity and harm reduction service access; carceral landscapes and historical labor networks; evaluation of specialty court programs (Drug/Re-entry courts); and the intersection of housing and infrastructures of care
+
+## Skills
+
+* **Statistical Analysis Software:** SPSS, SAS, Stata, and R/RStudio
+* **Geographic Information Systems:** ArcGIS & ArcPro
+* **Other Software:** Microsoft Suite (Excel, Word, PowerPoint)

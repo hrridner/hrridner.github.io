@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - about.html
 
 website:
   title: "Hannah Ridner"
@@ -9,14 +11,11 @@ website:
     type: dark
     left:
       - icon: info-circle
-        href: about.qmd
+        href: index.qmd
         text: "Hannah Ridner"
       - icon: globe
         href: research.qmd
         text: "Research"
-      - icon: journal-text
-        href: dissertation.qmd
-        text: "Dissertation"
       - icon: mortarboard
         href: teaching.qmd
         text: "Teaching"
